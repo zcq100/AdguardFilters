@@ -1,24 +1,26 @@
 sites:
   Belestepe (belestepe*.sbs):
-    last_known_mirror: belestepe896.sbs
-    success_since: 2026-06-01 17:38
+    last_known_mirror: belestepe615.sbs
+    success_since: 2026-07-15 14:48
   Turkifsaclub (turkifsaclub*.sbs):
     force_search_ahead: true
     last_known_mirror: turkifsaclub130.sbs
     success_since: 2026-05-25
   Jmanga (jmanga.*):
-    last_known_mirror: jmanga.nyc
-    success_since: 2026-06-04 08:30
+    last_known_mirror: jmanga.beer
+    success_since: 2026-07-15 14:48
   iNat TV (inattv*.xyz):
-    last_known_mirror: inattv1311.xyz
-    success_since: 2026-05-31 08:06
+    last_known_mirror: inattv1318.xyz
+    success_since: 2026-07-15 14:48
   HDFilmCehennemi (hdfilmcehennemi*.org):
     initial_domain: t.co/3D4ep5ZtK4
     last_known_mirror: hdfilmcehennemi27.org
     success_since: 2026-05-25
   Patronmac (patronmac*.cfd):
     last_known_mirror: patronmac91.cfd
-    success_since: 2026-06-01 15:09
+    failed_since: 2026-07-15 14:48
+    failed_days: 0
+    potentially_dead: true
   Piabet TV (piabettv*.live):
     force_search_ahead: true
     last_known_mirror: piabettv18.live
@@ -29,8 +31,8 @@ sites:
       - Redirecting...
     probe_text:
       - /jwplayer.js
-    last_known_mirror: jessicayeahcatch.com
-    success_since: 2026-06-05 01:49
+    last_known_mirror: ellenpoliticalfollow.com
+    success_since: 2026-07-15 14:48
   PapazSports (papazsports*.pro):
     initial_domain: psgiris.pro
     accept_antibot: true
